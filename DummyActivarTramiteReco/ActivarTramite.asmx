@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="ActivarTramite.asmx.cs" Class="DummyActivarTramiteReco.Service1" %>

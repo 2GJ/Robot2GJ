@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GJDummyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="GJDummyModelStoreContainer">
+          <EntitySet Name="CallCenter" EntityType="GJDummyModel.Store.CallCenter" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+        </EntityContainer>
+        <EntityType Name="CallCenter">
+          <Key>
+            <PropertyRef Name="IdCase" />
+          </Key>
+          <Property Name="IdCase" Type="int" Nullable="false" />
+          <Property Name="NombreEvento" Type="nchar" MaxLength="26" />
+          <Property Name="NumRadicado" Type="nchar" MaxLength="50" />
+          <Property Name="NumeroRadicadoTramite" Type="nchar" MaxLength="50" />
+          <Property Name="NumIdentificacion" Type="nchar" MaxLength="12" />
+          <Property Name="TipoIdentificacion" Type="nchar" MaxLength="2" />
+          <Property Name="PrimerNombre" Type="nchar" MaxLength="100" />
+          <Property Name="SegundoNombre" Type="nchar" MaxLength="100" />
+          <Property Name="PrimerApellido" Type="nchar" MaxLength="100" />
+          <Property Name="SegundoApellido" Type="nchar" MaxLength="100" />
+          <Property Name="TelefonoMovil" Type="nchar" MaxLength="50" />
+          <Property Name="Email" Type="nchar" MaxLength="50" />
+          <Property Name="Ciudad" Type="nchar" MaxLength="5" />
+          <Property Name="TelefonoFijo" Type="nchar" MaxLength="50" />
+          <Property Name="Tramite" Type="nchar" MaxLength="10" />
+          <Property Name="SubTramite" Type="nchar" MaxLength="10" />
+          <Property Name="Estado" Type="nchar" MaxLength="2" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GJDummyModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="EntitiesNewCallCenter" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+          <EntitySet Name="CallCenter" EntityType="GJDummyModel.CallCenter" />
+        </EntityContainer>
+        <EntityType Name="CallCenter">
+          <Key>
+            <PropertyRef Name="IdCase" />
+          </Key>
+          <Property Name="IdCase" Type="Int32" Nullable="false" />
+          <Property Name="NombreEvento" Type="String" MaxLength="26" Unicode="true" FixedLength="true" />
+          <Property Name="NumRadicado" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+          <Property Name="NumeroRadicadoTramite" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+          <Property Name="NumIdentificacion" Type="String" MaxLength="12" Unicode="true" FixedLength="true" />
+          <Property Name="TipoIdentificacion" Type="String" MaxLength="2" Unicode="true" FixedLength="true" />
+          <Property Name="PrimerNombre" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+          <Property Name="SegundoNombre" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+          <Property Name="PrimerApellido" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+          <Property Name="SegundoApellido" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+          <Property Name="TelefonoMovil" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+          <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+          <Property Name="Ciudad" Type="String" MaxLength="5" Unicode="true" FixedLength="true" />
+          <Property Name="TelefonoFijo" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+          <Property Name="Tramite" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="SubTramite" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="Estado" Type="String" MaxLength="2" Unicode="true" FixedLength="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GJDummyModelStoreContainer" CdmEntityContainer="EntitiesNewCallCenter">
+          <EntitySetMapping Name="CallCenter"><EntityTypeMapping TypeName="GJDummyModel.CallCenter"><MappingFragment StoreEntitySet="CallCenter">
+            <ScalarProperty Name="IdCase" ColumnName="IdCase" />
+            <ScalarProperty Name="NombreEvento" ColumnName="NombreEvento" />
+            <ScalarProperty Name="NumRadicado" ColumnName="NumRadicado" />
+            <ScalarProperty Name="NumeroRadicadoTramite" ColumnName="NumeroRadicadoTramite" />
+            <ScalarProperty Name="NumIdentificacion" ColumnName="NumIdentificacion" />
+            <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+            <ScalarProperty Name="PrimerNombre" ColumnName="PrimerNombre" />
+            <ScalarProperty Name="SegundoNombre" ColumnName="SegundoNombre" />
+            <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+            <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+            <ScalarProperty Name="TelefonoMovil" ColumnName="TelefonoMovil" />
+            <ScalarProperty Name="Email" ColumnName="Email" />
+            <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+            <ScalarProperty Name="TelefonoFijo" ColumnName="TelefonoFijo" />
+            <ScalarProperty Name="Tramite" ColumnName="Tramite" />
+            <ScalarProperty Name="SubTramite" ColumnName="SubTramite" />
+            <ScalarProperty Name="Estado" ColumnName="Estado" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="EDMNewCallCenter" ZoomLevel="87">
+        <EntityTypeShape EntityType="GJDummyModel.CallCenter" Width="3.125" PointX="0.75" PointY="0.75" Height="4.2879036458333326" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

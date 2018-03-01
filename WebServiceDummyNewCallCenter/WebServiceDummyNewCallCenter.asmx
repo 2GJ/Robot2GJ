@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="WebServiceDummyNewCallCenter.asmx.cs" Class="WebServiceDummyNewCallCenter.WebServiceDummyNewCallCenter" %>

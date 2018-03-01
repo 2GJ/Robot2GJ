@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GJDummyModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="GJDummyModelStoreContainer">
+    <EntitySet Name="CallCenter" EntityType="GJDummyModel.Store.CallCenter" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+  </EntityContainer>
+  <EntityType Name="CallCenter">
+    <Key>
+      <PropertyRef Name="IdCase" />
+    </Key>
+    <Property Name="IdCase" Type="int" Nullable="false" />
+    <Property Name="NombreEvento" Type="nchar" MaxLength="26" />
+    <Property Name="NumRadicado" Type="nchar" MaxLength="50" />
+    <Property Name="NumeroRadicadoTramite" Type="nchar" MaxLength="50" />
+    <Property Name="NumIdentificacion" Type="nchar" MaxLength="12" />
+    <Property Name="TipoIdentificacion" Type="nchar" MaxLength="2" />
+    <Property Name="PrimerNombre" Type="nchar" MaxLength="100" />
+    <Property Name="SegundoNombre" Type="nchar" MaxLength="100" />
+    <Property Name="PrimerApellido" Type="nchar" MaxLength="100" />
+    <Property Name="SegundoApellido" Type="nchar" MaxLength="100" />
+    <Property Name="TelefonoMovil" Type="nchar" MaxLength="50" />
+    <Property Name="Email" Type="nchar" MaxLength="50" />
+    <Property Name="Ciudad" Type="nchar" MaxLength="5" />
+    <Property Name="TelefonoFijo" Type="nchar" MaxLength="50" />
+    <Property Name="Tramite" Type="nchar" MaxLength="10" />
+    <Property Name="SubTramite" Type="nchar" MaxLength="10" />
+    <Property Name="Estado" Type="nchar" MaxLength="2" />
+  </EntityType>
+</Schema>

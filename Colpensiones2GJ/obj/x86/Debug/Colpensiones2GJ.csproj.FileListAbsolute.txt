@@ -1,0 +1,219 @@
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20160928 Robot 2GJ BMW M4\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\03 - ROBOTs\20170621 Robot 2GJ BMW M5\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\0 - REQ PRE DISENO\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\2 - REQ CONSTRUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\01 - REQUERIMIENTOS\7 - REQ PRODUCCION\REQ - Cambios Robot Liquidador - MapeoUsuarios, Respuestas\Robot\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\11 - DESARROLLO\Robot 2GJColpensiones\20170911 Proyecto Robot 2GJColpensiones\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\11 - DESARROLLO\Robot 2GJColpensiones\20170911 Proyecto Robot 2GJColpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\11 - DESARROLLO\Robot 2GJColpensiones\20170911 Proyecto Robot 2GJColpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+C:\2GJ\MyDocuments\Proyectos\Colombia\Colpensiones\11 - DESARROLLO\Robot 2GJColpensiones\20170911 Proyecto Robot 2GJColpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+E:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+E:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+E:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+E:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe.config
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.ResolveComReference.cache
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.exe
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.pdb
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.exe
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\Colpensiones2GJ.pdb
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\ColpensionesBC.dll
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\bin\Debug\ColpensionesBC.pdb
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csprojResolveAssemblyReference.cache
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.btoPruebaCargaArchivo.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddDocTP.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddGridCTP.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmAddRolesSkills.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCasoReconocimiento.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirManualesAuto.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmConvertirRepresaAuto.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmCreateScriptSQL.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyNotificacionPersonal.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmDummyRespuestaBO.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmgetCaseDataUsgSch.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmGetEntitydata.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmLiquidadorDummy.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPerformActivity.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmPruebaCargaArchivoTXT.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRadicarML.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmReintentoAsincronas.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaBDM.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRespuestaHL.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmRobottoCierreNP.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSaveEntity.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmSetEvent.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionAsincReco.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.frmValidacionErroresLiq.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.OperacionesReconocimiento.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.Properties.Resources.resources
+F:\Proyectos\Robot 2GJ Colpensiones\Robot 2GJ Colpensiones\Colpensiones2GJ\obj\x86\Debug\Colpensiones2GJ.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GJDummyModelStoreContainer" CdmEntityContainer="EntitiesNewCallCenter">
+    <EntitySetMapping Name="CallCenter">
+      <EntityTypeMapping TypeName="GJDummyModel.CallCenter">
+        <MappingFragment StoreEntitySet="CallCenter">
+          <ScalarProperty Name="IdCase" ColumnName="IdCase" />
+          <ScalarProperty Name="NombreEvento" ColumnName="NombreEvento" />
+          <ScalarProperty Name="NumRadicado" ColumnName="NumRadicado" />
+          <ScalarProperty Name="NumeroRadicadoTramite" ColumnName="NumeroRadicadoTramite" />
+          <ScalarProperty Name="NumIdentificacion" ColumnName="NumIdentificacion" />
+          <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+          <ScalarProperty Name="PrimerNombre" ColumnName="PrimerNombre" />
+          <ScalarProperty Name="SegundoNombre" ColumnName="SegundoNombre" />
+          <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+          <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+          <ScalarProperty Name="TelefonoMovil" ColumnName="TelefonoMovil" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="TelefonoFijo" ColumnName="TelefonoFijo" />
+          <ScalarProperty Name="Tramite" ColumnName="Tramite" />
+          <ScalarProperty Name="SubTramite" ColumnName="SubTramite" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
